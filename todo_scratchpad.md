@@ -20,8 +20,6 @@ category: General
 
 ### Pipelines
 - TEA-seq pipeline docs
-- Olivia: Fix hashed sample window selection in atac_out script
-- Olivia: ATAC-only barcodes not found for postprocessing
 - Zach: mismatch of N barcodes to N observation rows in X070
 - Olivia: Look into ATAC v2.0 pipeline update
   - No doublets?
@@ -35,5 +33,4 @@ category: General
 ## Notes
 
 ES out 6/18 and 6/24-6/30
-in_prefix <- paste0(in_pre,"/",in_sample)
 
