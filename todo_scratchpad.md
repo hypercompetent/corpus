@@ -13,6 +13,8 @@ category: General
 ### Manuscripts
 - Barcounter Manuscript
   - Test pipeline
+    - Update to relax well name requirements
+    - Update to autofind files in outs/
   - Build workflow figure
   - Integrate Elliott's figure
   - Finish pipeline text
@@ -20,12 +22,14 @@ category: General
 
 ### Pipelines
 - TEA-seq pipeline docs
+- Olivia: Do we need to recompute doublet scores in atac_assemble_out?
 - Zach: mismatch of N barcodes to N observation rows in X070
 - Olivia: Look into ATAC v2.0 pipeline update
   - No doublets?
   - Much higher N fragments
 
 ### Assistance
+- Follow-up with Matt Mule
 - Find paper for Split-Seq CITE
 - Find references for Elliott and Palak about spatial txomics
 

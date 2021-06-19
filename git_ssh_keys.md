@@ -1,12 +1,11 @@
 ---
-title: Github SSH Keys
-category: github
+title: HowTo - Github SSH Keys
+category: howto
 tags:
 - github
 ---
 
 Steps to generate and use an SSH key for authentication with Github.
-
 
 On the target machine:  
 
@@ -31,5 +30,8 @@ Instead of:
 Use:  
 `git clone git@github.com:aifimmunology/tenx-atacseq-pipeline`  
 
-For R:  
-install.packages("credentials")
+To install packages:
+```
+git clone --branch=dev git@github.com:aifimmunology/ATAComb
+sudo R --vanilla 'install.packages("ATAComb",s=T,r=NULL)'
+```
