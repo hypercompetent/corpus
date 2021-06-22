@@ -24,7 +24,5 @@ RUNX1 has been reported to suppress GATA3 expression: https://www.ncbi.nlm.nih.g
 
 Could be interesting biology there.
 
-
-
-
+General impression: clustering/cell hierarchy seems solid, but the labeling method is still the weak link in the manuscript. With no validation or comparisons to other methods, I suggest that the authors either find a way to benchmark their method or remove it from the paper and focus more on the advantages of their iterative profiling method (ably emphasized by the Leukemia results).
 

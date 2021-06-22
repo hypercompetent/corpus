@@ -13,8 +13,7 @@ category: General
 ### Manuscripts
 - Barcounter Manuscript
   - Test pipeline
-    - Update to relax well name requirements
-    - Update to autofind files in outs/
+    - Fix merge bugs
   - Build workflow figure
   - Integrate Elliott's figure
   - Finish pipeline text
