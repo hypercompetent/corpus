@@ -21,7 +21,10 @@ Expansion of tumor-associated Treg cells upon disruption of a CTLA-4-dependent f
 https://www.sciencedirect.com/science/article/pii/S0092867421006577?dgcid=author
 
 ## To Read
+Machine learning for perturbational single-cell omics
+https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00202-7
 
+https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30269-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471219302698%3Fshowall%3Dtrue
 
 ## Read
 

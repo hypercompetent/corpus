@@ -5,6 +5,8 @@ tags:
 - github
 ---
 
+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
+
 ### HISE packages
 Sys.setenv(GITHUB_PAT = "abd598ba6caa7d28046ec1d32c86c59b3a1be1c3")
 devtools::install_github("aifimmunology/r-hydration-sdk", ref = "development")

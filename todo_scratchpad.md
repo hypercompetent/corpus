@@ -6,34 +6,32 @@ category: General
 ## ToDo
 
 ### FH1 MM
-- Partner review slides
+- Follow-up from analysis meeting
+- Build order of sample priority sheet
+- Update doc for brainstorming
 - Labeling project for FH1 MM
 - Finish Doc for Clinical questions
 
 ### Manuscripts
 - Barcounter Manuscript
-  - Test pipeline
-    - Fix merge bugs
   - Build workflow figure
-  - Integrate Elliott's figure
   - Finish pipeline text
-- Review for Cell Rep
 
 ### Pipelines
-- TEA-seq pipeline docs
-- Olivia: Do we need to recompute doublet scores in atac_assemble_out?
-- Zach: mismatch of N barcodes to N observation rows in X070
 - Olivia: Look into ATAC v2.0 pipeline update
   - No doublets?
   - Much higher N fragments
+- ATAC-only pipeline using original barcodes
 
 ### Assistance
+- Move X070 to the teaseqpert Project Folder (Zach)
+- Check helper functions in ATAComb for matrices (Zach)
+  - make less specific? 
+- Plotting demo for James
 - Follow-up with Matt Mule
 - Find paper for Split-Seq CITE
 - Find references for Elliott and Palak about spatial txomics
 
-
 ## Notes
 
-ES out 6/18 and 6/24-6/30
 
