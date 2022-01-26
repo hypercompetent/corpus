@@ -41,7 +41,8 @@ git remote set-url origin git@github.com:aifimmunology/ATAComb
 
 In brief:
 ```
-ssh-keygen -t ed25519 -C "lucasg@alleninstitute.org"
+mkdir -p /home/jupyter/.ssh/
+ssh-keygen -t ed25519 -C "lucasg@alleninstitute.org" -f /home/jupyter/.ssh/id_ed25519 -N ""
 eval "$(ssh-agent -s)"
 ssh-add /home/jupyter/.ssh/id_ed25519
 cat /home/jupyter/.ssh/id_ed25519.pub

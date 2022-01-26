@@ -5,7 +5,7 @@ tags:
 - github
 ---
 
-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
+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
 
 ### HISE packages
 Sys.setenv(GITHUB_PAT = "abd598ba6caa7d28046ec1d32c86c59b3a1be1c3")

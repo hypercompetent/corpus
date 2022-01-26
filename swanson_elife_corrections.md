@@ -4,10 +4,6 @@ We are writing in regards to corrections to our accepted manuscript, "Simultaneo
 
 After publication, we have discovered errors in the manuscript that we would like to correct.
 
-The first such error is due to incorporation of two extra nucleotides, 'AT', in our i7 ADT primer sequences. We had corrected this in-house, and used the corrected version for all experiments, but did not correct the sequences in our manuscript.
-
-This error appears in Supplementary file 5, "Custom oligonucleotide sequences used to generate ICICLE-seq libraries.", as well as in Figure 3 - figure supplement 1. We apologize for these errors, and have attached corrected versions of these files.
-
 
 The second set of errors appear to stem from repetition of the last 3 digits in long numbers. These were not present in our submitted materials. We apologize for missing these corrections during the Proof stage:
 

@@ -5,33 +5,29 @@ category: General
 
 ## ToDo
 
+DEI: Update matching needs based on RA cohort controls
+
+
+
 ### FH1 MM
-- Follow-up from analysis meeting
-- Build order of sample priority sheet
-- Update doc for brainstorming
-- Labeling project for FH1 MM
-- Finish Doc for Clinical questions
+
+Do PT1 data prep for Marla
+Look at pan-MHCII clone in BMMC ADT data
+Add B099 CITE-seq to Project Folder for Emma's analysis
+Send Notebook scheduling notebooks to Tao
+Follow up with Xiaoling for 5' TCR data from FH
+Add BR2 datasets to project folder
+Look at existing BMMC datasets to use as healthy control reference
+
 
 ### Manuscripts
-- Barcounter Manuscript
-  - Build workflow figure
-  - Finish pipeline text
+Updates to BarWare manuscript
 
 ### Pipelines
 - Olivia: Look into ATAC v2.0 pipeline update
   - No doublets?
   - Much higher N fragments
-- ATAC-only pipeline using original barcodes
 
 ### Assistance
-- Move X070 to the teaseqpert Project Folder (Zach)
-- Check helper functions in ATAComb for matrices (Zach)
-  - make less specific? 
-- Plotting demo for James
-- Follow-up with Matt Mule
-- Find paper for Split-Seq CITE
-- Find references for Elliott and Palak about spatial txomics
 
 ## Notes
-
-

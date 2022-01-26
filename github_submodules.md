@@ -16,3 +16,4 @@ git push
 git clone git@github.com:AllenInstitute/BarcodeTender-pipeline
 cd BarcodeTender-pipeline
 git submodule update --init
+
